@@ -17,7 +17,7 @@ The datafiles in the `rawdata` folder are only a copy of [the original data][1],
 This repository including paper and data evaluation script are authored by all students attending the [Czech-Bavarian Mini-school 2020](https://mini-school.eu/):  
 
 TODO: UPDATE
-[Pavlo Baloh](https://github.com/LukasBeddrich), [Lukas Bauer](https://github.com/TUM-E21-ThinFilms), [Anežka Bendová](https://github.com/xaverbrems), [Korbinian Fellner](https://github.com/MichalDemVill), [Madhu Ghanathe](https://github.com/LFla), [Octavio Emmanuel Hernández Alvarez](https://github.com/HGabold), [Štefan Hricov](https://github.com/MariannaGe), [Liliia Kotvytska](), [Sonu Kumar](https://github.com/sonakoh), [Ankit Labh](https://github.com/kosutova), [Petr Machovec](https://github.com/kralpetr), [Brian R. Pauw](https://github.com/anastasiiamur), [Klaudie Ramszová](), [Erik Walz](https://github.com/AnastasiiaPy), [Peter Wild](https://github.com/DanielStasko)
+[Pavlo Baloh](), [Lukas Bauer](https://github.com/LukasEijk), [Lukas Beddrich](https://github.com/LukasBeddrich), [Anežka Bendová](), [Korbinian Fellner](https://github.com/kfellner), [Madhu Ghanathe](https://github.com/Mghanante), [Octavio Emmanuel Hernández Alvarez](https://github.com/OctEHA), [Štefan Hricov](), [Liliia Kotvytska](), [Sonu Kumar](), [Ankit Labh](https://github.com/iiserankit), [Petr Machovec](https://github.com/), [Brian R. Pauw](https://github.com/toqduj), [Klaudie Ramszová](), [Erik Walz](), [Peter Wild]()
 END UPDATE
 
 as well as the mini-school organizers:
