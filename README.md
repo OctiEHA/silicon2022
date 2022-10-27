@@ -15,7 +15,10 @@ The datafiles in the `rawdata` folder are only a copy of [the original data][1],
 ## Authors and acknowledgement
 
 This repository including paper and data evaluation script are authored by all students attending the [Czech-Bavarian Mini-school 2020](https://mini-school.eu/):  
-[Lukas Beddrich](https://github.com/LukasBeddrich), [Alexander Book](https://github.com/TUM-E21-ThinFilms), [Xaver Simon Brems](https://github.com/xaverbrems), [Michał Dembski-Villalta](https://github.com/MichalDemVill), [Luis Flacke](https://github.com/LFla), [Henrik Gabold](https://github.com/HGabold), [Marianna Gerina](https://github.com/MariannaGe), [Andrej Kancko](), [Soňa Kohúteková](https://github.com/sonakoh), [Tereza Košutová](https://github.com/kosutova), [Petr Král](https://github.com/kralpetr), [Anastasiia Murmiliuk](https://github.com/anastasiiamur), [Lukáš Nowak](), [Anastasiia Pylypets](https://github.com/AnastasiiaPy), [Daniel Staško](https://github.com/DanielStasko), [Ran Tang](https://github.com/rtang-sidney), [Michal Vančík](), [Lukas Vogl](https://github.com/lukasmvogl)
+
+TODO: UPDATE
+[Pavlo Baloh](https://github.com/LukasBeddrich), [Lukas Bauer](https://github.com/TUM-E21-ThinFilms), [Anežka Bendová](https://github.com/xaverbrems), [Korbinian Fellner](https://github.com/MichalDemVill), [Madhu Ghanathe](https://github.com/LFla), [Octavio Emmanuel Hernández Alvarez](https://github.com/HGabold), [Štefan Hricov](https://github.com/MariannaGe), [Liliia Kotvytska](), [Sonu Kumar](https://github.com/sonakoh), [Ankit Labh](https://github.com/kosutova), [Petr Machovec](https://github.com/kralpetr), [Brian R. Pauw](https://github.com/anastasiiamur), [Klaudie Ramszová](), [Erik Walz](https://github.com/AnastasiiaPy), [Peter Wild](https://github.com/DanielStasko)
+END UPDATE
 
 as well as the mini-school organizers:
 [Petr Čermák](https://github.com/me2d09) and [Johanna K. Jochum](https://github.com/jjochum87)
@@ -27,9 +30,9 @@ We also acknowledge the BTHA agency for providing us with financial support for 
 
 ## Technical details and file description
 
-A Jupyter notebook [silicon.ipynb](https://github.com/me2d09/silicon/blob/main/silicon.ipynb) contains all the data evaluation. If run, it will generate all figures used in [latex manuscript](https://github.com/me2d09/silicon/blob/main/main.tex).  The IPython notebook also tries to download the original data from the [data.ill.fr][1] server. However this can fail and therefore a copy of the data is placed in the `rawdata` folder. A detailed description of the analysis can be found in the IPython notebook and/or in the paper itself.
+A Jupyter notebook [silicon.ipynb](https://github.com/OctiEHA/silicon2022/blob/main/silicon.ipynb) contains all the data evaluation. If run, it will generate all figures used in [latex manuscript](https://github.com/OctiEHA/silicon2022/blob/main/main.tex).  The IPython notebook also tries to download the original data from the [data.ill.fr][1] server. However this can fail and therefore a copy of the data is placed in the `rawdata` folder. A detailed description of the analysis can be found in the IPython notebook and/or in the paper itself.
 
-Latex file is automatically build, see [main.yml](https://github.com/me2d09/silicon/blob/main/.github/workflows/main.yml). Latest generated PDF can be downloaded as artifacts from lastest run in [Github Actions](https://github.com/me2d09/silicon/actions/).
+Latex file is automatically build, see [main.yml](https://github.com/OctiEHA/silicon2022/blob/main/.github/workflows/main.yml). Latest generated PDF can be downloaded as artifacts from lastest run in [Github Actions](https://github.com/OctiEHA/silicon2022/actions/).
 
 ## File description
 
