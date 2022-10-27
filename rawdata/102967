@@ -1,0 +1,52 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+  102967       2       0                                                        
+ILL TAS data in the new ASCII format follow after the line VV..V                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      80                                                                        
+IN3   internal use06-Feb-17 18:36:36                                            
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+INSTR: IN3
+USER_: internal use
+FILE_: 102967
+DATE_: 06-Feb-17 18:36:36
+TITLE: HERCULES 
+TYPE_: tas
+COMND: bs qh 1.7 -2.3 -0.3 10 dqh 0 0 0 1 np 7 mn 8000
+POSQE: QH=   1.7010, QK=  -2.3004, QL=  -0.2997, EN=   9.9987, UN=meV
+CURVE: MONO= auto, ANA= manu
+STEPS: EN=   1.0000
+PARAM: GONIO= 0
+PARAM: DM=   2.08706, DA=   3.35500, KFIX=   2.66325
+PARAM: SM= -1, SS= -1, SA=  1, FX=  2
+PARAM: ALF1= 600.00, ALF2=  40.00, ALF3=  40.00, ALF4= 600.00
+PARAM: BET1= 600.00, BET2= 600.00, BET3= 600.00, BET4= 600.00
+PARAM: ETAM=  25.00, ETAA=  35.00
+PARAM: AS=   5.43100, BS=   5.43100, CS=   5.43100
+PARAM: AA=  90.00000, BB=  90.00000, CC=  90.10000, ETAS=   1.00000
+PARAM: AX= -1.000, AY=  1.000, AZ=  0.000
+PARAM: BX= -1.000, BY= -1.000, BZ= -1.000
+VARIA: I1      =   0.00, I2      =   0.00, I3      =   0.00, I4      =   0.00
+VARIA: A1      = -25.85, A2      = -51.70, A3      =  56.64, A4      = -64.37
+VARIA: A5      =  20.59, A6      =  41.17, RM      =   4.93, GM      =  66.97
+VARIA: TM      =  55.11, RAV     =   2.33, RAH     =   8.86, GU      =   3.04
+VARIA: GL      =   1.05, TU      = -26.18, TL      = -22.52
+VARIA: A3P     =-1941960.25, D1T     =  37.81, D1B     =  40.00
+VARIA: D1R     =  14.95, D1L     =  15.16, D2T     =  50.31, D2B     =  25.62
+VARIA: D2R     =   0.99, D2L     =  17.58
+ZEROS: A1      = 181.68, A2      =   2.71, A3      =-179.10, A4      =   0.70
+ZEROS: A5      =  -1.45, A6      =   0.24, RM      =   0.00, GM      =   0.00
+ZEROS: TM      =   0.00, RAV     =   0.00, RAH     =   0.00, GU      =   0.00
+ZEROS: GL      =   0.00, TU      =   0.00, TL      =   0.00, A3P     =   0.00
+ZEROS: D1T     =   0.00, D1B     =   0.00, D1R     =   0.00, D1L     =   0.00
+ZEROS: D2T     =   0.00, D2B     =   0.00, D2R     =   0.00, D2L     =   0.00
+PARAM: MN=    8000
+PARAM: TT=      1.67, RT=     84.86
+PARAM: REACTOR=53.57
+FORMT:
+DATA_:
+  PNT        QH        QK        QL        EN        M1        M2      TIME      CNTS         KI         A2         A3         A4 
+   1       1.7010   -2.3004   -0.2997    9.9987     8000        0    88.05        14        3.452    -51.700     56.640    -64.370 
+   2       1.7016   -2.2996   -0.2990   10.9811     8000        0    90.90         8        3.520    -50.630     56.070    -63.280 
+   3       1.7011   -2.2997   -0.2993   11.9776     8000        0    91.93         7        3.588    -49.610     55.520    -62.200 
+   4       1.7010   -2.2996   -0.2993   12.9842     8000        0    95.95       128        3.655    -48.640     54.950    -61.130 
+   5       1.7010   -2.3002   -0.2996   13.9738     4764        0    59.78        10        3.720    -47.740     54.390    -60.110 

@@ -1,0 +1,62 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+  102951       2       0                                                        
+ILL TAS data in the new ASCII format follow after the line VV..V                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      80                                                                        
+IN3   internal use06-Feb-17 14:10:13                                            
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+INSTR: IN3
+USER_: internal use
+FILE_: 102951
+DATE_: 06-Feb-17 14:10:13
+TITLE: HERCULES 
+TYPE_: tas
+COMND: sc a3 145.6 da3 0.1 np 15 ti 1
+POSQE: QH=   0.0351, QK=   0.0351, QL=  -3.9993, EN=   0.0383, UN=meV
+CURVE: MONO= auto, ANA= manu
+STEPS: A3=   0.1000
+PARAM: GONIO= 0
+PARAM: DM=   2.08706, DA=   3.35500, KFIX=   4.09762
+PARAM: SM= -1, SS= -1, SA=  1, FX=  2
+PARAM: ALF1= 600.00, ALF2=  40.00, ALF3=  40.00, ALF4= 600.00
+PARAM: BET1= 600.00, BET2= 600.00, BET3= 600.00, BET4= 600.00
+PARAM: ETAM=  25.00, ETAA=  35.00
+PARAM: AS=   5.43100, BS=   5.43100, CS=   5.43100
+PARAM: AA=  90.00000, BB=  90.00000, CC=  90.10000, ETAS=   1.00000
+PARAM: AX= -1.000, AY= -1.000, AZ=  0.000
+PARAM: BX=  0.000, BY=  0.000, BZ= -1.000
+VARIA: I1      =   0.00, I2      =   0.00, I3      =   0.00, I4      =   0.00
+VARIA: A1      = -21.53, A2      = -43.08, A3      = 144.90, A4      = -68.73
+VARIA: A5      =  13.21, A6      =  26.42, RM      =   5.84, GM      =  66.97
+VARIA: TM      =  55.05, RAV     =   2.33, RAH     =   8.84, GU      =   3.04
+VARIA: GL      =   0.03, TU      = -26.70, TL      = -22.99
+VARIA: A3P     =-1941960.25, D1T     =  72.50, D1B     =  40.00
+VARIA: D1R     =  14.95, D1L     =  15.16, D2T     =  50.31, D2B     =  25.62
+VARIA: D2R     =   0.99, D2L     =  17.58
+ZEROS: A1      = 181.68, A2      =   2.71, A3      =-179.10, A4      =   0.70
+ZEROS: A5      =  -1.45, A6      =   0.24, RM      =   0.00, GM      =   0.00
+ZEROS: TM      =   0.00, RAV     =   0.00, RAH     =   0.00, GU      =   0.00
+ZEROS: GL      =   0.00, TU      =   0.00, TL      =   0.00, A3P     =   0.00
+ZEROS: D1T     =   0.00, D1B     =   0.00, D1R     =   0.00, D1L     =   0.00
+ZEROS: D2T     =   0.00, D2B     =   0.00, D2R     =   0.00, D2L     =   0.00
+PARAM: TI=      1.00
+PARAM: TT=      1.66, RT=     58.37
+PARAM: REACTOR=53.57
+FORMT:
+DATA_:
+  PNT        A3        M1        M2      TIME      CNTS         A3         A4         QM         TT        TRT 
+   1     144.9000       67        0     1.00         0      144.900    -68.730      4.627      1.655     58.367 
+   2     144.9900       65        0     1.00         0      144.990    -68.730      4.627      1.655     58.367 
+   3     145.1000       66        0     1.00         0      145.100    -68.730      4.627      1.655     58.367 
+   4     145.2000       65        0     1.00         1      145.200    -68.730      4.627      1.655     58.367 
+   5     145.2900       66        0     1.00         1      145.290    -68.730      4.627      1.653     58.375 
+   6     145.3900       65        0     1.00         0      145.390    -68.730      4.627      1.653     58.375 
+   7     145.5000       65        0     1.00         0      145.500    -68.730      4.627      1.653     58.375 
+   8     145.6000       63        0     1.00         0      145.600    -68.730      4.627      1.667     58.382 
+   9     145.7000       66        0     1.00         0      145.700    -68.730      4.627      1.667     58.382 
+  10     145.8000       66        0     1.00         1      145.800    -68.730      4.627      1.667     58.382 
+  11     145.9000       64        0     1.00         0      145.900    -68.730      4.627      1.659     58.390 
+  12     145.9900       67        0     1.00         0      145.990    -68.730      4.627      1.659     58.390 
+  13     146.0900       64        0     1.00         0      146.090    -68.730      4.627      1.659     58.390 
+  14     146.1900       65        0     1.00         0      146.190    -68.730      4.627      1.659     58.398 
+  15     146.3000       65        0     1.00         0      146.300    -68.730      4.627      1.659     58.398 
