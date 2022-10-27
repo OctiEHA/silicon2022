@@ -108,7 +108,8 @@ Here, we have used data, which was made available by the Institute Laue-Langevin
 
 \section{Introduction}
 
-Disclaimer: This document is an edited copy of the manuscript published in 2020 on arXiv.org\cite{minischool2020}.
+Disclaimer: This document is the second iteration of the manuscript published in 2020 on arXiv.org\cite{minischool2020}.
+A new group of students continued the project started in 2020 during the first ``Czech-Bavarian mini-school on large-scale facilites and open data'' and added their findings to this iteration of the manuscript.\\
 
 Open Science is defined as \emph{``the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods''} \cite{foster}.\\
 
@@ -164,7 +165,7 @@ The raw data directory contains 30 data files from number 102942 till 102971.
 The first 27 files are sample alignment, including sample rotation scans, the adjustment of the goniometer and lattice parameters. 
 This procedure was repeated several times, possibly as part of a students practice.
 Only three ``real'' measurements were performed after the sample alignments (file numbers 10269-12071).
-The scans each contain one excitation, at 10.77\,meV, 13.10\,meV and 14.70\,meV. 
+The constant Q scans along the $\Lambda$\,-\,line each contain one excitation, at 10.77\,meV, 13.10\,meV and 14.70\,meV, respectively. 
 
 The measured raw data are plotted in the Fig. \ref{fig1}.
 Both peaks are fitted with a simple model of two Gaussians and a constant background. 
@@ -172,7 +173,7 @@ The position of the second peak is fixed to be at the negative position of the f
 The two peaks do not have the same shape because of the tilted resolution ellipsoid of every triple axis spectrometer and can therefore not be fitted properly with just a Gaussian. 
 However, a detailed analysis of the instrument resolution is beyond the scope of this paper.
 
-The extracted peak position is $0.071 \pm  0.002$ rlu. 
+The extracted peak positions are at 10.77\,meV, 13.10\,meV and 14.70\,meV.
 This value is plotted as a red dot in Fig. \ref{fig2} together with the dispersion relation published in \cite{Aouissi}.
 
 A description on how the data evaluation is run is included in the \emph{readme} file \cite{data-evaluation}.
@@ -180,7 +181,7 @@ A description on how the data evaluation is run is included in the \emph{readme}
 
 \begin{figure}
     \includegraphics[width=1.0\linewidth]{energy-scan.eps}
-    \caption{\label{fig1} Constant energy scan at $\Delta E = 6.0\,\mathrm{meV}$ in [111] direction around ($\bar{2}20$). It shows the creation and annihilation peak of the phonon dispersion with the typical focusing and defocusing effect associated with the sloped resolution of a triple-axis spectrometer.}
+    \caption{\label{fig1} Constant Q scan along the $\Lambda$\,-\,line, corresponding to the [111] direction.}
 \end{figure}
 
 \begin{figure}
