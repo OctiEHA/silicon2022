@@ -12,5 +12,15 @@ jobs:
           root_file: main.tex
       - uses: actions/upload-artifact@v2
         with:
-          name: paper.pdf
-          path: main.pdf
+          name: compiled-pdf
+          path: |
+            main.pdf
+            main.bbl
+      - uses: actions/upload-artifact@v2
+        with:
+          name: arxiv-submission
+          path: |
+            main.tex
+            main.bbl
+            *.png
+            *.eps
